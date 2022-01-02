@@ -1,0 +1,50 @@
+#heading{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    padding: 5px;
+    margin: 20px;
+}
+.main{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    line-height: 2em;
+    margin: 20px;
+
+
+}
+.personal{
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+.checkbox{
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.politics{
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+.essay{
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+.pd{
+    text-align: justify;
+}
+
+#datetoout{
+    margin: 20px;
+}
